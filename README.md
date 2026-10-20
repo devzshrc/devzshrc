@@ -4,11 +4,11 @@ I'm a software engineer based in Lucknow, India. I build backend and platform sy
 
 Outside work, I design and build web apps, from the interface to the APIs and deployment.
 
-[<img src="https://api.iconify.design/mdi/web.svg?color=%236B7280" width="18" height="18" alt="" /> Website](https://devzshrc.in) · [<img src="https://api.iconify.design/mdi/github.svg?color=%236B7280" width="18" height="18" alt="" /> GitHub](https://github.com/devzshrc) · [<img src="https://api.iconify.design/mdi/linkedin.svg?color=%230A66C2" width="18" height="18" alt="" /> LinkedIn](https://linkedin.com/in/devzshrc) · [<img src="https://api.iconify.design/simple-icons/x.svg?color=%236B7280" width="18" height="18" alt="" /> X](https://x.com/devzshrc) · [<img src="https://api.iconify.design/mdi/email-outline.svg?color=%23EA4335" width="18" height="18" alt="" /> Email](mailto:devzshrcz@gmail.com)
+[Website](https://devzshrc.in) · [LinkedIn](https://linkedin.com/in/devzshrc) · [X](https://x.com/devzshrc) · [Email](mailto:devzshrcz@gmail.com)
 
 ## What I've been building
 
-### <img src="https://yc.devzshrc.in/logo.svg" width="28" height="28" alt="" /> Orbiter (YC Jobs)
+### Orbiter (YC Jobs)
 
 A job search app that brings listings from several sources into one place. Choose your preferences, compare jobs with your resume, and track your applications.
 
@@ -20,7 +20,7 @@ A job search app that brings listings from several sources into one place. Choos
 
 [Try it](https://yc.devzshrc.in) · [Code](https://github.com/devzshrc/yc) · [Build notes](https://devzshrc.in/work/yc-jobs)
 
-### <img src="https://app.devzshrc.in/icon.svg?v=2" width="28" height="28" alt="" /> Docks
+### Docks
 
 A workspace for reviewing GitHub pull requests. It helps reviewers follow changes and keep track of reviews across repositories.
 
@@ -32,7 +32,7 @@ A workspace for reviewing GitHub pull requests. It helps reviewers follow change
 
 [Try it](https://app.devzshrc.in) · [Code](https://github.com/devzshrc/docks) · [Build notes](https://devzshrc.in/work/docks)
 
-### <img src="https://notyourtypeformx-web.vercel.app/icon.svg" width="28" height="28" alt="" /> Schema
+### Schema
 
 An AI form builder. Describe the form you need and get an editable draft with questions, field types, validation, and rules for skipping questions.
 
@@ -52,8 +52,6 @@ An AI form builder. Describe the form you need and get an editable draft with qu
 - Designing interfaces and building the systems behind them.
 
 ## Tools I use
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,cloudflare&perline=7" alt="TypeScript, JavaScript, React, Next.js, Node.js, PostgreSQL, and Cloudflare" />
 
 | Area | Tools |
 | --- | --- |
